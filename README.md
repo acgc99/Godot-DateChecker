@@ -11,3 +11,7 @@ Methods:
 I made some discussions on Godot repositories:
 - [Bad error handling](https://github.com/godotengine/godot/issues/80059#issue-1827963646).
 - [Proposal](https://github.com/godotengine/godot-proposals/issues/7414#issue-1827970405) to implement what this addon does.
+
+---
+
+Addon icon has been downloaded form [Pictogrammers](https://pictogrammers.com/docs/general/license/).
